@@ -1,0 +1,3 @@
+# 所谓 style guides，或Style Guidelines
+
+这东西在天朝一般都叫规范，一顶大帽子，风格不一样你就是不规范哈...
